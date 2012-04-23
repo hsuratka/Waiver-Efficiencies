@@ -23,3 +23,6 @@ specifics will be provided). a. If the student is new, the student will be
 added to the waiver, via the gateway xml interface. b. If the student is no
 longer eligible for the waiver, an eprint report is generated for manual review
 of the situation.
+
+This is a test of check out and check in of readme.md file by Harish Suratkal
+on 04/23/2012.
