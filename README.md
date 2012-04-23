@@ -27,4 +27,5 @@ of the situation.
 This is a test of check out and check in of readme.md file by Harish Suratkal
 on 04/23/2012.
 
-Testing commit of changes to readme file on 04/23/2012 at 16:00 hrs
+Testing commit of changes to readme file on 04/23/2012 at 16:04 hrs
+
