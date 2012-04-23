@@ -1,8 +1,6 @@
 Waiver-Efficiencies
 ===================
 
-Waiver Efficiencies
-
 There is an opportunity to gain efficiencies in applying waivers. There are
 four situations where we manually run a query to identify students who should
 have a waiver. Then we must identify the students who either need to be added
@@ -25,7 +23,7 @@ longer eligible for the waiver, an eprint report is generated for manual review
 of the situation.
 
 Key Documents
--------------------
+===================
 ERD and Mock up documents are available in folder:
 S:\jbaquero\Jorge\My Documents\Projects\Project 21893 - Waiver Efficiencies\Schematics
 
