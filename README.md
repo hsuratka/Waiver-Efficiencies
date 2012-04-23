@@ -29,7 +29,7 @@ S:\jbaquero\Jorge\My Documents\Projects\Project 21893 - Waiver Efficiencies\Sche
 
 Objects
 ===================
-Grails Interface
+Grails Interface CHR(10)
 Database API
 AppWorx Job
 Report
