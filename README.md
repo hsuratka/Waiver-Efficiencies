@@ -24,10 +24,9 @@ added to the waiver, via the gateway xml interface. b. If the student is no
 longer eligible for the waiver, an eprint report is generated for manual review
 of the situation.
 
-This is a test of check out and check in of readme.md file by Harish Suratkal
-on 04/23/2012.
+-------------------
+-- Key Documents --
+-------------------
+ERD and Mock up documents are available in folder:
+S:\jbaquero\Jorge\My Documents\Projects\Project 21893 - Waiver Efficiencies\Schematics
 
-Testing commit of changes to readme file on 04/23/2012 at 16:05 hrs
-
-One more round of changes
-Testing commit of changes to readme file on 04/23/2012 at 16:07 hrs
