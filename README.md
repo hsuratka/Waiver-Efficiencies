@@ -21,7 +21,7 @@ fee, student union, etc)
 • Bordering County/Bordering State o Subquery to parse
 out Bordering County Students o Subquery to parse out Bordering State Students
 
-• Competitive Scholarship o Information is obtained thru a financial aid query
+• Competitive Scholarship Information is obtained through a financial aid query
 The solution for each item, would involve: 1. performing a query to identify
 students eligible for the waiver (queries will be provided for each) 2. These
 results would be compared to the students who currently have the waiver (waiver
