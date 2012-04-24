@@ -13,11 +13,14 @@ The four situations are:
 • Student enrolled in both
 TTU/Law receive credit for the fees in which they are dually charged by being
 enrolled in both terms. (e.g., library fee, medical fee, student union, etc)
+
 • Student enrolled in both TTU/HSC receive credit for the fees in which they are
 dually charged by being enrolled in both terms. (e.g., library fee, medical
 fee, student union, etc)
+
 • Bordering County/Bordering State o Subquery to parse
 out Bordering County Students o Subquery to parse out Bordering State Students
+
 • Competitive Scholarship o Information is obtained thru a financial aid query
 The solution for each item, would involve: 1. performing a query to identify
 students eligible for the waiver (queries will be provided for each) 2. These
